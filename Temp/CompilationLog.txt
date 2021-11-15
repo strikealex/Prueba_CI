@@ -1,0 +1,2 @@
+# Starting compiling PlayMode.dll
+C:\Program Files\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b8610c57aa079f74cab98105e3bb55b1
